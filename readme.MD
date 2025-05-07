@@ -16,6 +16,12 @@ The demonstration is conducted **ethically** for educational purposes, helping t
 
 ---
 
+![Main screen](screenshots/Zphisher.png)
+
+👨‍💻 Author
+Vilacegen
+Cybersecurity Student | Developer | Curious Human
+
 ## Steps to Reproduce the Simulation
 
 ### 1. Clone the Project
@@ -27,8 +33,3 @@ git clone https://github.com/yourusername/phishing-simulation.git
 cd phishing-simulation
 
 
-![Main screen](screenshots/Zphisher.png)
-
-👨‍💻 Author
-Vilacegen
-Cybersecurity Student | Developer | Curious Human
