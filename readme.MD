@@ -16,7 +16,7 @@ The demonstration is conducted **ethically** for educational purposes, helping t
 
 ---
 
-![Main screen](screenshots/Zphisher.png)
+![Main screen](./Screenshots/Zphisher%20.png)
 
 👨‍💻 Author
 Vilacegen
